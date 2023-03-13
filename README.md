@@ -5,4 +5,4 @@
 - Se realizo el proyecto con HMTL, CSS y JS Vanilla
 
 ## Link
-- puedes ver el proyecto en 
+- puedes ver el proyecto en https://jhonniergs.github.io/batatabit-mobile-first/
